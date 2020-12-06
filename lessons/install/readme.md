@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
-I installed Python 3 because the course material for the bootcamp is compatible with Python version 3. Also, the HackerRank Python pre-work is configured for Python 3 only.
+_I installed **Python 3** because the course material for the bootcamp is compatible with Python version 3. Also, the HackerRank Python pre-work is configured for **Python 3** only._
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
-Python 3.8.2
+_**Python 3.8.2_**
 
  
 
